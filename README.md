@@ -1,4 +1,4 @@
-# applied_statistic
+# applied_statistics
 Applied Statistic repository
 
 by Monika Dabrowska
